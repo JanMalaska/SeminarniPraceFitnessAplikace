@@ -1,3 +1,2 @@
-FitnessAplikace.zip je stará nefungující verze kompoilovaná v pyinstalleru tudíž hlásí jako virus.
-Nová exe verze v Nuitka je funkční a bez problému.
+Nová exe verze v Nuitka je funkční a bez problému.\n
 V cela prace jsou vsechny soubory ktere jsem postupem vytvarel.
